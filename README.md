@@ -50,3 +50,12 @@ pytest --cov=main -v
 |----------|--------|-----------|
 | `DATABASE_URL` | `postgresql://postgres:postgres@localhost:5432/produtos_db` | URL de conexão com o banco |
 | `TEST_DATABASE_URL` | `postgresql://postgres:postgres@localhost:5433/produtos_test` | URL do banco de testes |
+
+```
+## Projeto Acadêmico
+
+Projeto desenvolvido para a disciplina **Laboratório de Programação Back End (Eng.Soft05_B_N_M_991532_20261)** do curso de Engenharia de Software.
+
+A atividade teve como objetivo aplicar conceitos de desenvolvimento backend por meio da construção de uma API REST utilizando FastAPI, 
+integração com banco de dados PostgreSQL, containerização com Docker e implementação de testes automatizados com Pytest, seguindo boas práticas de desenvolvimento e qualidade de software.
+```
